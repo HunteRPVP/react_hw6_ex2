@@ -1,0 +1,19 @@
+.season {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.season__img {
+  height: 100%;
+  width: 100%;
+}
+
+.season__name {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200px;
+  color: white;
+}
